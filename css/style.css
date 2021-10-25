@@ -11,3 +11,10 @@
 .omino{
     max-width: 300px;
 }
+
+hr {
+    width: 15%;
+    border: 2px solid;
+    margin: 0 10px;
+}
+
