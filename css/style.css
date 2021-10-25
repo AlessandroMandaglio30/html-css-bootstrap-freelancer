@@ -1,12 +1,13 @@
-/* commons */
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+.bgnav {
+    background-color: #2c3e50;
 }
 
+.bgjumbo{
+    background-color: #1abc9c;
+    color: white;
+}
 
-.debug header{
-    background-color: blue;
+.omino{
+    max-width: 300px;
 }
